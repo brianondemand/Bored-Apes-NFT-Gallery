@@ -1,1 +1,3 @@
-# Bored-Apes-NFT-Gallery
+# Bored Apes NFT Gallery
+
+![Alt text](image link)

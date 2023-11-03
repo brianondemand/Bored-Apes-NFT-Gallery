@@ -1,3 +1,3 @@
 # Bored Apes NFT Gallery
 
-![Alt text](image link)
+![image](https://github.com/brianondemand/Bored-Apes-NFT-Gallery/blob/main/screenshot.png)
